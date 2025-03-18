@@ -1,9 +1,5 @@
-# Resend Java SDK
+# Yonoma Java SDK
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-![Build](https://github.com/resendlabs/resend-java/actions/workflows/ci.yml/badge.svg)
-![Release](https://img.shields.io/github/release/resendlabs/resend-java.svg?style=flat-square)
----
 
 ## Installation
 
